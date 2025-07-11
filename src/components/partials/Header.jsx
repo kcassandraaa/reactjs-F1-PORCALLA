@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <>
       {/* Header */}
-      <header className="bg-black text-white p-4 shadow-md sticky z-50">
+      <header className="bg-black text-white p-4 shadow-md sticky z-50 top-0">
         <div className="container mx-auto flex justify-between items-center">
           <Logo />
           <nav>
